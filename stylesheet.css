@@ -1,0 +1,66 @@
+footer {
+  text-align: center;
+}
+
+.addorsub {
+        	display: flex;
+          flex-direction: row;
+          align-items: center;
+        }
+        
+.img-thumbnail {
+        	width: 250px;
+          height: 250px;
+        }
+        
+.row {
+        	word-break: break-word;
+        }
+
+.form {
+  padding-left: 30%;
+  padding-right: 30%;
+  padding-top: 5em;
+  background-image:url(images/bath/bath2.jpg);
+  height: 90em;
+  width: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.container {
+  position: relative;
+  padding: 20px;
+  margin:10px;
+  background-color: white;
+}
+
+#carouselExampleIndicators {
+  padding-left: 20%;
+  padding-right: 20%;
+  height: auto;
+}
+
+.Cbuttons {
+  padding-left:20%;
+  padding-right:20%;
+}
+
+.middletitle {
+  text-align: center;
+  font-size: 5em;
+}
+
+.aboutus {
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-top: 5%;
+  text-align: center;
+}
+
+.fixpadding {
+  padding-left: 20%;
+  padding-right: 20%;
+}
